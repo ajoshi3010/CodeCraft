@@ -1,0 +1,10 @@
+# Ignore .env files
+**/.env
+
+# Ignore node_modules folders
+**/node_modules/
+
+# Ignore dist folders
+**/dist/
+
+start-dev.sh
